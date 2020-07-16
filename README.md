@@ -1,6 +1,10 @@
-### Hi there 👋
+<p align="center">
+	<a href="https://github.com/chunjie-sam-liu"><img src="https://img.shields.io/github/followers/chunjie-sam-liu.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://twitter.com/chunjie_sam_liu"><img src="https://img.shields.io/twitter/follow/chunjie_sam_liu?label=Twitter&style=social" alt="Twitter"></a>
+</p>
 
 ![](https://github-readme-stats.vercel.app/api?username=chunjie-sam-liu&show_icons=true)
+
 <!--
 **chunjie-sam-liu/chunjie-sam-liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
