@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![](https://github-readme-stats.vercel.app/api?username=chunjie-sam-liu&show_icons=true)
 <!--
 **chunjie-sam-liu/chunjie-sam-liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
