@@ -69,9 +69,11 @@
   <span>
     ⏳ Year { ███████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 25.44 %
   </span>
-  &nbsp;&nbsp;
+</p>
+
+<p align="center">
   <span>
-    ⏰ on Mon, 03 Apr 2023 20:48:43 GMT
+    ⏰ on Mon, 03 Apr 2023 20:50:00 GMT
   </span>
 </p>
 
