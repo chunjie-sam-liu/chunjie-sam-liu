@@ -66,6 +66,6 @@
 ---
 ⏳ Year progress { ███████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 25.44 %
 
-⏰ Updated on Mon, 03 Apr 2023 20:31:32 GMT
+⏰ Updated on Mon, 03 Apr 2023 20:33:30 GMT
 
-![GitHub Actions CI](https://github.com/chunjie-sam-liu/chunjie-sam-liu/workflows/main.yml/badge.svg)
+![GitHub Actions CI](https://github.com/chunjie-sam-liu/chunjie-sam-liu/actions/workflows/main.yml/badge.svg)
