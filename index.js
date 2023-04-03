@@ -84,7 +84,7 @@ const readme = `\
 
 ⏰ Updated on ${new Date().toUTCString()}
 
-![GitHub Actions CI](https://github.com/chunjie-sam-liu/chunjie-sam-liu/workflows/main.yml/badge.svg)\
+![GitHub Actions CI](https://github.com/chunjie-sam-liu/chunjie-sam-liu/actions/workflows/main.yml/badge.svg)\
 `
 
 console.log(readme)

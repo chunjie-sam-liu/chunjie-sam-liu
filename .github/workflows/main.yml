@@ -1,4 +1,4 @@
-name: README
+name: GitHub Actions CI
 
 on:
   workflow_dispatch:
