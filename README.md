@@ -61,10 +61,6 @@
   </a>
 </p>
 
-
-
----
-
 <p align="center">
   <span>
     ⏳ Year { ███████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 25.44 %
@@ -73,10 +69,15 @@
 
 <p align="center">
   <span>
-    ⏰ on Mon, 03 Apr 2023 20:50:00 GMT
+    ⏰ on Mon, 03 Apr 2023 20:52:41 GMT
   </span>
 </p>
 
-![GitHub Actions CI](https://github.com/chunjie-sam-liu/chunjie-sam-liu/actions/workflows/main.yml/badge.svg)
+<p align="center">
+  <span>
+    <a href="https://github.com/chunjie-sam-liu/chunjie-sam-liu/actions/workflows/main.yml/badge.svg">
+      <img src="https://github.com/chunjie-sam-liu/chunjie-sam-liu/actions/workflows/main.yml/badge.svg" alt="GitHub Actions CI">
+    </a>
+</p>
 
 
