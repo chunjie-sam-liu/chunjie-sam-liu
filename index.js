@@ -80,11 +80,21 @@ const readme = `\
 
 
 ---
-⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 
-⏰ Updated on ${new Date().toUTCString()}
+<p align="center">
+  <span>
+    ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
+  </span>
+  &npsp;&nbsp;
+  <span>
+    ⏰ Updated on ${new Date().toUTCString()}
+  </span>
+</p>
 
-![GitHub Actions CI](https://github.com/chunjie-sam-liu/chunjie-sam-liu/actions/workflows/main.yml/badge.svg)\
+<p align="center">
+![GitHub Actions CI](https://github.com/chunjie-sam-liu/chunjie-sam-liu/actions/workflows/main.yml/badge.svg)
+</p>
+\
 `
 
 console.log(readme)
