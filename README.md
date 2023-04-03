@@ -1,8 +1,3 @@
-<style>
-  a:hover {
-    text-decoration: underline;
-  }
-</style>
 
 <p align="center">
   <a
@@ -12,6 +7,7 @@
     <img
       src="https://img.shields.io/github/followers/chunjie-sam-liu.svg?label=GitHub&style=social" alt="GitHub"
       height="30"
+      style="border: none;"
       >
   </a>
   &nbsp;&nbsp;
@@ -34,7 +30,9 @@
       src="https://scholar.google.com/intl/en/scholar/images/1x/scholar_logo_64dp.png"
       alt="Google Scholar"
       width="200"
-      height="30">
+      height="30"
+      style="border: none;"
+    >
   </a>
   &nbsp;&nbsp;
   <a
@@ -48,6 +46,7 @@
       src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
       alt="ORCID iD icon"
       height="30"
+      style="border: none;"
     />
   </a>
 </p>
@@ -57,6 +56,7 @@
     <img
       src="https://github-readme-stats.vercel.app/api?username=chunjie-sam-liu&show_icons=true"
       alt="Stat"
+      style="border: none;"
     >
   </a>
 </p>
