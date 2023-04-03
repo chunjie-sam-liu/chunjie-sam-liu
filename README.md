@@ -1,3 +1,9 @@
+<style>
+  a:hover {
+    text-decoration: underline;
+  }
+</style>
+
 <p align="center">
   <a
     href="https://github.com/chunjie-sam-liu"
@@ -16,6 +22,7 @@
     <img
       src="https://img.shields.io/twitter/follow/chunjie_sam_liu?label=Twitter&style=social" alt="Twitter"
       height="30"
+      style="border: none;"
       >
   </a>
   &nbsp;&nbsp;
