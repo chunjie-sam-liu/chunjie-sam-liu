@@ -77,10 +77,6 @@ const readme = `\
   </a>
 </p>
 
-
-
----
-
 <p align="center">
   <span>
     ⏳ Year ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
@@ -93,7 +89,12 @@ const readme = `\
   </span>
 </p>
 
-![GitHub Actions CI](https://github.com/chunjie-sam-liu/chunjie-sam-liu/actions/workflows/main.yml/badge.svg)
+<p align="center">
+  <span>
+    <a href="https://github.com/chunjie-sam-liu/chunjie-sam-liu/actions/workflows/main.yml/badge.svg">
+      <img src="https://github.com/chunjie-sam-liu/chunjie-sam-liu/actions/workflows/main.yml/badge.svg" alt="GitHub Actions CI">
+    </a>
+</p>
 
 \
 `
