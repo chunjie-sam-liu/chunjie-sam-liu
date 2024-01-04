@@ -63,13 +63,13 @@
 
 <p align="center">
   <span>
-    ⏳ Year { ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 0.75 %
+    ⏳ Year { ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 0.83 %
   </span>
 </p>
 
 <p align="center">
   <span>
-    ⏰ on Wed, 03 Jan 2024 18:09:24 GMT
+    ⏰ on Thu, 04 Jan 2024 00:35:44 GMT
   </span>
 </p>
 
