@@ -63,13 +63,13 @@
 
 <p align="center">
   <span>
-    ⏳ Year { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 16.17 %
+    ⏳ Year { ███████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 24.66 %
   </span>
 </p>
 
 <p align="center">
   <span>
-    ⏰ on Sun, 01 Mar 2026 00:19:52 GMT
+    ⏰ on Wed, 01 Apr 2026 00:24:16 GMT
   </span>
 </p>
 
